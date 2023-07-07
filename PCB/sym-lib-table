@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "board")(type "Legacy")(uri "${KIPRJMOD}/board.lib")(options "")(descr ""))
+)
